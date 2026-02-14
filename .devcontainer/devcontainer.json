@@ -18,8 +18,7 @@
       "extensions": [
         "ms-python.python",
         "ms-python.vscode-pylance",
-        "formulahendry.code-runner",
-        "ms-vscode.live-server"
+        "formulahendry.code-runner"
       ],
       "settings": {
         "code-runner.runInTerminal": true,
